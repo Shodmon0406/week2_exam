@@ -10,8 +10,4 @@ public class User
     {
         return $"{FirstName} {LastName} {UserName} {Password}";
     }
-    public string Login()
-    {
-        return $"Login successful! Welcome mr {FirstName} {LastName}";
-    }
 }
