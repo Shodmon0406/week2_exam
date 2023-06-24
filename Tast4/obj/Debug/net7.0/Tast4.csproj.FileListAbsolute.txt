@@ -1,0 +1,15 @@
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\bin\Debug\net7.0\Tast4.exe
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\bin\Debug\net7.0\Tast4.deps.json
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\bin\Debug\net7.0\Tast4.runtimeconfig.json
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\bin\Debug\net7.0\Tast4.dll
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\bin\Debug\net7.0\Tast4.pdb
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\obj\Debug\net7.0\Tast4.csproj.AssemblyReference.cache
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\obj\Debug\net7.0\Tast4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\obj\Debug\net7.0\Tast4.AssemblyInfoInputs.cache
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\obj\Debug\net7.0\Tast4.AssemblyInfo.cs
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\obj\Debug\net7.0\Tast4.csproj.CoreCompileInputs.cache
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\obj\Debug\net7.0\Tast4.dll
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\obj\Debug\net7.0\refint\Tast4.dll
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\obj\Debug\net7.0\Tast4.pdb
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\obj\Debug\net7.0\Tast4.genruntimeconfig.cache
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\exam\Tast4\obj\Debug\net7.0\ref\Tast4.dll
